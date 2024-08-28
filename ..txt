@@ -1,0 +1,31 @@
+Documeent.getElementByID() solo puede obtener los id del html.
+
+document.getElementByClassName() para tener acceso a todas las clases
+    basicamente es similar a un arrayl para poder acceder podemos usar el indice
+    nos devuelve a una clase similar a la html
+document.getElementByTagName()
+selecciona todos los elementos que tengan una etiqueta especifica de manera general, es una coleccion
+
+document.querySelector()
+realiza la busqueda de selectores de manera especifica de los selectores CSS
+document.querySelectorAll()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ solo puede obtener los
