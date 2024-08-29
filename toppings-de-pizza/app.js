@@ -24,7 +24,7 @@ const primerMarron  = document.querySelector(' ul .fondo-marron');
 console.log(primerMarron);
 
 //descartar elementos
-const primerNoMarron = document.querySelector(' ul li:not(.fondo-marron');
+const primerNoMarron = document.querySelector(' ul li:not(.fondo-marron)');
 console.log(primerNoMarron);
 
 console.log('=======document.querySelectorAll=====');
