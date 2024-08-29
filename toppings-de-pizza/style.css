@@ -61,3 +61,7 @@
   .fondo-naranja {
     background-color: #ff7b0f;
   }
+  .clase-agregado{
+    text-decoration:underline;
+    color:magenta;
+  } 
