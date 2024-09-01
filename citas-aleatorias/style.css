@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-image: url(/citas-aleatorias/img/fondo.jpg);
+    background-image: url(/citas-aleatorias/img/biblioteca.jpg);
 }
 .contenido-centrado{
     display: flex;    
