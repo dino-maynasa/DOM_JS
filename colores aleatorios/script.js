@@ -13,7 +13,7 @@ for (let i = 0; i <6; i++) {
 return colorHex;
 }
 //addEventListener
-boton.addEventListener('click', function() { 
+boton.addEventListener('click', () => { 
     let colorAleatorio = generarColorAleatorio();
     //actualizar el texto
     color.textContent = colorAleatorio;
