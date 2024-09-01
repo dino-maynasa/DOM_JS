@@ -31,6 +31,13 @@ colorRojo.addEventListener("change", (e)=>{
 rojo = e.target.value;
 actualizarColor(rojo, verde, azul);
 });
+/*  CODIGO ALTERNATIVO
+colorRojo.addEventListener("change", ()=>{
+rojo = e.colorRojo.value;
+actualizarColor(rojo, verde, azul);
+});
+*/
+
 
 //actualizar color verde
 colorVerde.addEventListener("change", (e)=>{
